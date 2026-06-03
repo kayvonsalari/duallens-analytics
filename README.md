@@ -1,4 +1,4 @@
-# DualLens Analytics
+# AI-Powered Investment Research Platform
 
 **AI-powered investment research combining financial performance with strategic innovation signals**
 
